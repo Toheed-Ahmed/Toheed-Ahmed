@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Toheed Kalwar
 
-<!--
-**ToheedKalwar/ToheedKalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** | Web Wizard with **HTML • CSS • JavaScript • React**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+I'm passionate about crafting **interactive UIs** and **modern web experiences**.  
+I enjoy turning ideas into responsive, accessible, and visually engaging websites.  
+Always learning, building, and contributing — one pixel at a time!
+
+---
+
+### 📚 Currently Learning
+- 🌐 Advanced React concepts (Hooks, Context API, Routing)
+- ⚛️ Next.js for server-side rendering and SEO optimization
+- 💅 Tailwind CSS for utility-first styling
+- 🧩 TypeScript to write scalable frontend code
+
+---
+
+### 🛠 Languages & Tools
+- **Languages:** Java, C++, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Bootstrap  
+- **Tools:** Git & GitHub, VS Code, Chrome DevTools, Figma
+
+---
+
+### 🎯 Let's Code, Collaborate & Contribute  
+Open to exciting **frontend development** opportunities, internships, and open-source collaboration!
+
+---
+
+### 🎉 Fun Fact  
+I can turn coffee ☕ into responsive websites faster than you can say "media query"!
+
+
