@@ -1,15 +1,14 @@
 # 👋 **Hi, I'm Toheed Ahmed**
 
-**Frontend Developer** | Web Wizard with **HTML • CSS • JavaScript • React**
+**Frontend Developer** | Creative Frontend Developer | Expertise in HTML · CSS · JavaScript · React
 
 ---
 
 ## 💡 **About Me**
 
-I'm Toheed Ahmed — a creative frontend developer with a passion for transforming ideas into seamless, user-friendly web experiences.  
-I specialize in building **interactive**, **accessible**, and **responsive interfaces** using the latest frontend technologies.  
-Fueled by curiosity and coffee, I’m always exploring new tools and trends to craft web solutions that blend performance with design.  
-Let's build something amazing — one pixel at a time.
+I’m Toheed Ahmed, an undergraduate software engineer and passionate frontend developer who thrives on transforming ideas into sleek, user-friendly websites. I specialize in building responsive, accessible, and interactive interfaces using HTML, CSS, JavaScript, and React.
+
+As a natural team player and emerging tech leader, I enjoy taking initiative, collaborating on creative solutions, and staying ahead of the curve in web development trends. Whether it’s leading a student project or building a clean, high-performance UI, I’m driven by curiosity, consistency — and a good cup of coffee .
 
 ---
 
