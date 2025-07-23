@@ -1,7 +1,8 @@
 # 👋 **Hi, I'm Toheed Ahmed**
 
-**Frontend Developer** | Creative Frontend Developer | Expertise in HTML · CSS · JavaScript · React
-
+**Software Engineer** | **Web Developer**  
+JavaScript • React • Bootstrap • HTML5 • CSS3 | Exploring Node.js & REST APIs  
+Problem-Solver | Clean Code Advocate | Passionate About Building Better Web Experiences
 ---
 
 ## 💡 **About Me**
