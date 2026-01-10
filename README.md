@@ -71,7 +71,36 @@ I specialize in **JavaScript, React, Bootstrap, HTML5, CSS3** and I’m explorin
 - 💼 Secure **industry-level internships** in Frontend / Web Development  
 - ⚡ Strengthen skills in **React, Next.js, Tailwind CSS, and modern UI/UX practices**  
 - 📈 Maintain consistency through **daily coding and project-based learning**
- 
+
+---
+
+### 🎉 Hacktoberfest 2025 Achievements
+
+I proudly contributed to open source and earned multiple Hacktoberfest badges:
+
+<p align="center">
+  <a href="https://www.holopin.io/@toheedahmed#badges">
+    <img src="https://holopin.io/badge/cmgkt63qn0059jm047gd0ewjj" alt="Hacktoberfest 2025 Level 0" width="80">
+  </a>
+  <a href="https://www.holopin.io/@toheedahmed#badges">
+    <img src="https://holopin.io/badge/cmgkt63sj005ajm045k1dgqkx" alt="Hacktoberfest 2025 Level 1" width="80">
+  </a>
+  <a href="https://www.holopin.io/@toheedahmed#badges">
+    <img src="https://holopin.io/badge/cmgkt63xx005ajm0yyk1dgqkx" alt="Hacktoberfest 2025 Level 2" width="80">
+  </a>
+  <a href="https://www.holopin.io/@toheedahmed#badges">
+    <img src="https://holopin.io/badge/cmgkt63yy005ajm0yyk1dgqkx" alt="Hacktoberfest 2025 Level 3" width="80">
+  </a>
+  <a href="https://www.holopin.io/@toheedahmed#badges">
+    <img src="https://holopin.io/badge/cmgkt63qn0059jm047gd0ewjj" alt="Hacktoberfest 2025 Supercontributor" width="80">
+  </a>
+</p>
+
+<p align="center">
+  ✨ I also earned the Hacktoberfest 2025 T-shirt for contributing 6+ accepted PRs!
+</p>
+
+<p align="center"><em>Click any badge to view my full Holopin profile.</em></p>
 
 ---
 
@@ -80,7 +109,6 @@ I specialize in **JavaScript, React, Bootstrap, HTML5, CSS3** and I’m explorin
 - 🌍 Location: *Sindh, Pakistan*  
 - ✨ Fun Fact: I believe **Clean Code = Better Experiences**  
 
----
 
 ## 🧰 Tech Stack  
 
