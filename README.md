@@ -65,10 +65,13 @@ I specialize in **JavaScript, React, Bootstrap, HTML5, CSS3** and I’m explorin
 
 ---
 
-### 🎯 2025 Goals
-- 🚀 Build a **Next.js portfolio project**  
-- 🌐 Contribute to **open-source** frontend tools  
-- 💼 Land **industry-level internships** in frontend dev  
+### 🎯 2026 Goals
+- 🚀 Build and deploy a **high-impact Next.js portfolio** showcasing real-world projects  
+- 🌐 Actively contribute to **open-source frontend tools and libraries**  
+- 💼 Secure **industry-level internships** in Frontend / Web Development  
+- ⚡ Strengthen skills in **React, Next.js, Tailwind CSS, and modern UI/UX practices**  
+- 📈 Maintain consistency through **daily coding and project-based learning**
+ 
 
 ---
 
@@ -90,18 +93,6 @@ I specialize in **JavaScript, React, Bootstrap, HTML5, CSS3** and I’m explorin
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="65"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="65"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="65"/> <img src="https://img.icons8.com/color/65/000000/tailwindcss.png" width="65"/> | <img src="https://img.icons8.com/color/65/000000/git.png" width="65"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="65"/> |
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toheed-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Toheed-Ahmed&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheed-Ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="44%" />
-</p>
 
 ---
 
