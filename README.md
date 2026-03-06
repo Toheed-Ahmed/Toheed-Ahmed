@@ -36,9 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toheed-Ahmed&theme=tokyonight&no-frame=true&margin-w=25" />
-</p>
 
 ---
 
@@ -109,7 +106,21 @@ I believe in **learning by doing, reproducible code, and data-driven decision-ma
 </p>
 
 ---
+### 🏅 Holopin Badges
 
+<p align="center">
+  <a href="https://holopin.io/@toheedahmed">
+    <img src="https://holopin.me/toheedahmed" alt="Holopin badges of Toheed Ahmed" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open-source contributions recognized through Hacktoberfest achievements.</i>
+</p>
+
+
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" />
   <h3>"Analyze. Build. Improve. Repeat. 📊"</h3>
