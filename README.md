@@ -1,15 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Toheed%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20%2F%20SQL%20%2F%20ML%20Projects&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Toheed%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Automation%20%7C%20Product%20Development&descAlignY=55&descAlign=50" width="100%" />
 
-  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Toheed Ahmed Profile Picture"/>
-  </p>
-
-  ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-1abc9c?style=for-the-badge&logo=python&logoColor=white)  
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6366f1?style=for-the-badge&logo=keras&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-f59e0b?style=for-the-badge&logo=python&logoColor=white)
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=70&lines=Python+%7C+SQL+%7C+Data+Analysis;Machine+Learning+%7C+EDA+%7C+Predictive+Models;End-to-End+ML+Projects;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=750&height=70&lines=Building+Scalable+SaaS+Products;Workflow+Automation+Tools;Full+Stack+Product+Engineer;React+%7C+Node+%7C+APIs+%7C+Databases;Productivity+Tools+for+Modern+Teams" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -27,101 +19,112 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toheed-Ahmed&style=for-the-badge&color=6366f1" alt="Profile Views" />
-  <a href="https://github.com/Toheed-Ahmed?tab=followers">
-    <img src="https://img.shields.io/github/followers/Toheed-Ahmed?style=for-the-badge&color=10b981" />
-  </a>
-  <a href="https://github.com/Toheed-Ahmed">
-    <img src="https://img.shields.io/github/stars/Toheed-Ahmed?style=for-the-badge&color=f59e0b" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Toheed-Ahmed&style=for-the-badge&color=6366f1" />
+  <img src="https://img.shields.io/github/followers/Toheed-Ahmed?style=for-the-badge&color=10b981" />
 </p>
-
 
 ---
 
-## 🔍 About Me  
+# ⚡ About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="250" alt="Coding animation" />
+  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="240" />
 </p>
 
-👋 Hi, I’m **Toheed Ahmed** - an *Aspiring Data Scientist & ML Enthusiast* transitioning from Software Engineering and Web Development.  
+I’m focused on becoming a **Full Stack Engineer building scalable SaaS products, productivity tools, and workflow automation systems.**
 
-I focus on **building real-world data-driven solutions**, from **data analysis** to **predictive modeling**, applying logic, clean code, and structured execution to every project.  
+I enjoy turning manual workflows into simple, efficient applications that help teams work faster. My focus is on building real product-style applications with clean UI, strong backend logic, and scalable architecture.
 
-I believe in **learning by doing, reproducible code, and data-driven decision-making**.  
-
----
-
-### 🌟 What I’m Building Now
-- 📊 Exploratory Data Analysis (EDA) Projects  
-- 🤖 Supervised Machine Learning Models  
-- 🧩 Feature Engineering & Data Cleaning Pipelines  
-- 🧪 Model Evaluation & Hyperparameter Tuning  
-- 🛠 End-to-End Jupyter Notebook Workflows  
+Currently, I’m building full stack projects involving dashboards, automation logic, APIs, and multi-user SaaS systems while continuously improving my product engineering skills.
 
 ---
 
-### 🎯 Current Focus (Next 60 Days)
-- Build **3–4 complete ML projects** from scratch  
-- Master **Python, Pandas, NumPy, and Scikit-learn**  
-- Strengthen **statistics & probability for data science**  
-- Document projects with **insights & visuals**  
-- Maintain **daily execution and consistency**  
+# 🚀 What I'm Building
+
+- 🧩 SaaS Dashboard Applications  
+- ⚙️ Workflow Automation Tools  
+- 📊 Productivity Web Apps  
+- 🔐 Multi-User SaaS Systems  
+- 🔗 API Integration Platforms  
 
 ---
 
-### 🧰 Data Science & Tools
+# 🎯 Current Focus
 
-<div align="center">
-
-| **Languages** | **Data Analysis** | **Machine Learning** | **Tools** |
-|---------------|------------------|--------------------|-----------|
-| Python | Pandas | Scikit-learn | Jupyter Notebook |
-| SQL | NumPy | Logistic Regression | Git |
-|  | Matplotlib / Seaborn | Decision Trees | VS Code |
-
-</div>
+- Scalable full stack architecture  
+- SaaS-style application development  
+- Workflow automation logic  
+- API integrations & background jobs  
+- Clean UI + reusable components  
 
 ---
 
-### 📌 Featured Projects (Coming Soon)
-- Customer Churn Prediction  
-- House Price Prediction  
-- Exploratory Data Analysis on Real-World Datasets  
-- Model Comparison & Evaluation  
+# 🧰 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-6366f1?style=for-the-badge)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🤝 Collaboration & Interests
-- 💡 Open to **data science & ML projects**, mentorship, and knowledge exchange  
-- 🌍 Location: *Sindh, Pakistan*  
-- ✨ Fun Fact: I believe **Clean Code + Data = Better Insights**  
+# 📌 Featured Project Direction
+
+- SaaS Admin Dashboard  
+- Workflow Automation App  
+- Team Productivity Tool  
+- API Integration Platform  
+- Multi-User Web Application  
 
 ---
 
-### 📈 Contribution Graph
+# 🌱 Growth Mindset
+
+- Improving full stack architecture  
+- Building scalable SaaS systems  
+- Learning background workers & queues  
+- Writing clean & maintainable code  
+- Shipping real product-style projects  
+
+---
+
+# 🤝 Open to Collaborate
+
+- SaaS Products  
+- Startup Tools  
+- Internal Dashboards  
+- Workflow Automation  
+- Productivity Applications  
+
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toheed-Ahmed&bg_color=0d1117&color=6366f1&line=22c55e&point=facc15&area=true&hide_border=true" width="95%"/>
 </p>
 
----
 ### 🏅 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@toheedahmed">
-    <img src="https://holopin.me/toheedahmed" alt="Holopin badges of Toheed Ahmed" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Open-source contributions recognized through Hacktoberfest achievements.</i>
-</p>
+<p align="center"> <a href="https://holopin.io/@toheedahmed"> <img src="https://holopin.me/toheedahmed" alt="Holopin badges of Toheed Ahmed" width="80%" /> </a> </p> <p align="center"> <i>Open-source contributions recognized through Hacktoberfest achievements.</i> </p>
 
 
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" />
-  <h3>"Analyze. Build. Improve. Repeat. 📊"</h3>
+  <h3>Build • Automate • Scale 🚀</h3>
 </div>
